@@ -19,7 +19,7 @@ I design and develop **modular Infrastructure-as-Code (IaC)** solutions using **
 | Project | Description |
 |----------|--------------|
 | [**Pulumi AWS Modular Infrastructure**](https://github.com/FrancescoCastoldi/pulumi-aws-modular-infra) | Modular and production-ready AWS IaC architecture (ECS, Lambda, ALB, Route53, ACM, S3). |
-| [**AWS Lambda EventBridge Scheduler**](https://github.com/FrancescoCastoldi/aws-lambda-eventbridge-scheduler) | Serverless automation for EC2 start/stop via EventBridge + Lambda + Pulumi. |
+| [**AWS Lambda EventBridge Scheduler**](https://github.com/FrancescoCastoldi/aws-lambda-eventbridge-schedule) | Serverless automation for EC2 start/stop via EventBridge + Lambda + Pulumi. |
 | [**CI/CD Pipeline with GitHub Actions**](https://github.com/FrancescoCastoldi/ci-cd-pipeline-with-github-actions) | Example of a full CI/CD pipeline: FastAPI app → build → push to ECR → optional Pulumi deploy. |
 
 ---
